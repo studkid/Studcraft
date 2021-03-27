@@ -9,13 +9,13 @@ events.listen('recipes', event => {
 
 		event.remove({
 			input: ['#forge:ores/${material}', '#forge:dusts/${materal}'],
-			output: "#forge:ingots/#{material}"
+			output: "#forge:ingots/#{material}",
 			type: 'minecraft:smelting'
 		});
 
 		event.remove({
 		input: ['#forge:ores/${material}', '#forge:dusts/${materal}'],
-		output: "#forge:ingots/#{material}"			
+		output: "#forge:ingots/#{material}",	
 		type: 'minecraft:smelting'
 		});
 
