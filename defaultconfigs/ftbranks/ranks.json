@@ -1,0 +1,38 @@
+{
+  "member": {
+    "name": "Member",
+    "power": 1,
+    "condition": {
+      "type": "always_active"
+    },
+    "ftbchunks.max_claimed": 500,
+    "ftbchunks.max_force_loaded": 100,
+    "command.sethome": false,
+    "command.delhome": false,
+    "command.home": false,
+    "command.warp": false,
+    "command.setwarp": false,
+    "command.delwarp": false,
+    "command.mc.rtp": false,
+    "command.back": false,
+    "command.spawn": false
+  },
+  "admin": {
+    "name": "Admin",
+    "power": 1000,
+    "condition": {
+      "type": "op"
+    },
+    "ftbchunks.max_claimed": 500,
+    "ftbchunks.max_force_loaded": 100,
+    "command.sethome": false,
+    "command.delhome": false,
+    "command.home": false,
+    "command.warp": false,
+    "command.setwarp": false,
+    "command.delwarp": false,
+    "command.mc.rtp": false,
+    "command.back": false,
+    "command.spawn": false
+  }
+}
