@@ -54,15 +54,15 @@
 	#Set to FALSE to prevent 'Thermal Series' Sulfur from generating.
 	Sulfur = true
 	#Set to FALSE to prevent 'Thermal Series' Copper from generating.
-	Copper = false
+	Copper = true
 	#Set to FALSE to prevent 'Thermal Series' Tin from generating.
-	Tin = false
+	Tin = true
 	#Set to FALSE to prevent 'Thermal Series' Lead from generating.
-	Lead = false
+	Lead = true
 	#Set to FALSE to prevent 'Thermal Series' Silver from generating.
-	Silver = false
+	Silver = true
 	#Set to FALSE to prevent 'Thermal Series' Nickel from generating.
-	Nickel = false
+	Nickel = true
 	#Set to FALSE to prevent 'Thermal Series' Oil Sands from generating.
 	Oil = true
 

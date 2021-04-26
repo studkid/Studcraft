@@ -1,0 +1,14 @@
+{
+	"item.witherutilsexp.witherxp_bucket": "XP Bucket",
+
+	"fluid.witherutilsexp.witherxp": "Liquid XP",
+
+	"block.witherutilsexp.xpshower": "XP Shower",
+	"block.witherutilsexp.xpshower.tooltip": "Drains XP from an XP Tank (other tanks don't work) into XP orbs when right clicks.  Model looks suspiciously similar to Mekanism's electric pump :thinking:",
+
+	"block.witherutilsexp.xpsucker": "XP Sucker",
+	"block.witherutilsexp.xpsucker.tooltip": "Sucks your XP, transfering it to any tank below it.  Yes, this is actually called the XP Sucker.  I hate it.",
+
+	"block.witherutilsexp.tank": "XP Tank",
+	"block.witherutilsexp.tank": "Stores liquid XP to be used with an XP Shower.  Also can be used for other fluids, but this is the only tank that works with the XP Shower so it's pretty funny.",
+}

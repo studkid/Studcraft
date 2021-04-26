@@ -64,7 +64,7 @@
 	#Generation Settings for uranium ore.
 	[world_generation.uranium]
 		#Determines if uranium ore should be added to world generation.
-		shouldGenerate = false
+		shouldGenerate = true
 		#Chance that uranium generates in a chunk.
 		#Range: 1 ~ 128
 		perChunk = 8

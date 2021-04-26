@@ -4,15 +4,15 @@
 	#Nether ore generation: disable / enable
 	netherOreGen = true
 	#End ore generation: disable / enable
-	endOreGen = true
+	endOreGen = false
 	#Gravel ore generation: disable / enable
-	gravelOreGen = true
+	gravelOreGen = false
 	#Basalt ore generation: disable / enable
 	basaltOreGen = true
 	#Nether dense ore generation: disable / enable
 	denseOreGen = true
 	#Extra ore generation: disable / enable
-	extraOreGen = true
+	extraOreGen = false
 	#Extra nether ore generation: disable / enable
 	extraNetherOreGen = true
 

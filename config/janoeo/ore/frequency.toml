@@ -8,71 +8,71 @@
 			#Range: 1 ~ 128
 			size = 8
 			#Range: 0 ~ 128
-			count = 12
+			count = 8
 			#Range: 1 ~ 255
-			top = 63
+			top = 72
 			#Range: 1 ~ 255
-			bottom = 1
+			bottom = 8
 
 		[janoeo.overworld.tin]
 			#Range: 1 ~ 128
 			size = 8
 			#Range: 0 ~ 128
-			count = 12
+			count = 8
 			#Range: 1 ~ 255
-			top = 63
+			top = 72
 			#Range: 1 ~ 255
-			bottom = 1
+			bottom = 8
 
 		[janoeo.overworld.aluminium]
 			#Range: 1 ~ 128
-			size = 12
+			size = 4
 			#Range: 0 ~ 128
-			count = 12
+			count = 8
 			#Range: 1 ~ 255
-			top = 63
+			top = 85
 			#Range: 1 ~ 255
-			bottom = 1
+			bottom = 40
 
 		[janoeo.overworld.uranium]
 			#Range: 1 ~ 128
-			size = 4
+			size = 8
 			#Range: 0 ~ 128
-			count = 12
+			count = 8
 			#Range: 1 ~ 255
-			top = 32
+			top = 60
 			#Range: 1 ~ 255
 			bottom = 1
 
 		[janoeo.overworld.osmium]
 			#Range: 1 ~ 128
-			size = 4
+			size = 8
 			#Range: 0 ~ 128
 			count = 12
 			#Range: 1 ~ 255
-			top = 32
+			top = 60
 			#Range: 1 ~ 255
-			bottom = 1
+			bottom = 8
 
 		[janoeo.overworld.lead]
 			#Range: 1 ~ 128
-			size = 12
+			size = 6
 			#Range: 0 ~ 128
-			count = 12
+			count = 8
 			#Range: 1 ~ 255
-			top = 63
+			top = 36
 			#Range: 1 ~ 255
-			bottom = 1
+			bottom = 4
 
 		[janoeo.overworld.silver]
 			#Range: 1 ~ 128
-			size = 4
+			size = 8
 			#Range: 0 ~ 128
-			count = 12
+			count = 8
 			#Range: 1 ~ 255
-			top = 26
+			top = 40
 			#Range: 1 ~ 255
-			bottom = 1
+			bottom = 4
 
 		[janoeo.overworld.ruby]
 			#Range: 1 ~ 128
@@ -400,9 +400,9 @@
 
 		[janoeo.nether.aluminium]
 			#Range: 1 ~ 128
-			size = 6
+			size = 4
 			#Range: 0 ~ 128
-			count = 32
+			count = 16
 			#Range: 1 ~ 255
 			top = 127
 			#Range: 1 ~ 255
@@ -412,7 +412,7 @@
 			#Range: 1 ~ 128
 			size = 6
 			#Range: 0 ~ 128
-			count = 40
+			count = 16
 			#Range: 1 ~ 255
 			top = 127
 			#Range: 1 ~ 255
@@ -420,7 +420,7 @@
 
 		[janoeo.nether.tin]
 			#Range: 1 ~ 128
-			size = 6
+			size = 8
 			#Range: 0 ~ 128
 			count = 32
 			#Range: 1 ~ 255
@@ -430,7 +430,7 @@
 
 		[janoeo.nether.copper]
 			#Range: 1 ~ 128
-			size = 6
+			size = 8
 			#Range: 0 ~ 128
 			count = 40
 			#Range: 1 ~ 255
@@ -460,7 +460,7 @@
 
 		[janoeo.nether.silver]
 			#Range: 1 ~ 128
-			size = 4
+			size = 8
 			#Range: 0 ~ 128
 			count = 32
 			#Range: 1 ~ 255
@@ -470,7 +470,7 @@
 
 		[janoeo.nether.uranium]
 			#Range: 1 ~ 128
-			size = 4
+			size = 8
 			#Range: 0 ~ 128
 			count = 32
 			#Range: 1 ~ 255
@@ -480,7 +480,7 @@
 
 		[janoeo.nether.osmium]
 			#Range: 1 ~ 128
-			size = 4
+			size = 8
 			#Range: 0 ~ 128
 			count = 32
 			#Range: 1 ~ 255

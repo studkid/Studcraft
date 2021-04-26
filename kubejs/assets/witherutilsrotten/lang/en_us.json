@@ -1,0 +1,7 @@
+{
+	"item.witherutilsrotten.earthdrop": "Earth Drop",
+	"item.witherutilsrotten.earthdrop.tooltip": "Use on grass/dirt to spawn rotten dirt",
+
+	"block.witherutilsrotten.rottenearth": "Rotten Earth",
+	"block.witherutilsrotten.tooltip": "Drastically increases hostile mob spawns.  Highly flamable."
+}

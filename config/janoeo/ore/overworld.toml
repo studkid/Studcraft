@@ -16,11 +16,11 @@
 	#Lead ore generation: disable / enable
 	leadOreGen = true
 	#Ruby ore generation: disable / enable
-	rubyOreGen = true
+	rubyOreGen = false
 	#Sapphire ore generation: disable / enable
-	sapphireOreGen = true
+	sapphireOreGen = false
 	#Amethyst ore generation: disable / enable
-	amethystOreGen = true
+	amethystOreGen = false
 	#Zinc ore generation: disable / enable
 	zincOreGen = true
 	#Dense coal ore generation: disable / enable
